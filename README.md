@@ -4,12 +4,6 @@ Eu sou Full-Stack Developer atualmente trabalhando em Moçambique.
 
 - 🔭 I’m currently working on Personal Project
 - 🌱 I’m currently learning Javascript 
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about 
-- 📫 How to reach me: ...
-- 😄 Pronouns: Ele/He
-- ⚡ Fun fact: Hope
 
 ##
 <strong> Linguagens de Programação </Sttrong>
