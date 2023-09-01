@@ -1,5 +1,5 @@
 ### Olá, Eu Sou Leonel Eduardo 👋
-Eu sou Full-Stack Developer atualmente trabalhando em Moçambique.
+OI, Eu sou Web Developer atualmente trabalhando como freelancer.
 ##
 
 - 🔭 I’m currently working on Personal Project
